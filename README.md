@@ -1,5 +1,7 @@
 # nCoV-Global-Map
 
+![alt text](https://github.com/timorleste/nCoV-Global-Map/blob/master/css/ncov19-global.png?raw=true)
+
 Lancet Inf Dis Article: Here. Mobile Version: Here. Data sources: Full list. Downloadable database: GitHub, Feature Layer.
 
 Lead by JHU CSSE. Technical Support: Esri Living Atlas team and JHU APL. Financial Support: JHU, NSF, Bloomberg Philanthropies and Stavros Niarchos Foundation. Resource support: Slack, Github and AWS. Click here to donate to the CSSE dashboard team, and other JHU COVID-19 Research Efforts. FAQ. Read more in this blog. Contact US.
